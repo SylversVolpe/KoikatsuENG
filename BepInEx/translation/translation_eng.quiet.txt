@@ -15,7 +15,7 @@
 「……ばか」=「..stupid.」
 「うん……大好き……でも、なんで？」=「Yeah.. I love you.. but why?」
 「……無い……そういうの苦手、だから」=「..Not at all.. I'm not good at it, so..」
-「……よくわからないけど……暖かい、感じかな」=「..I don't really understand, but.. it'd feel warm..?」
+「……よくわからないけど……暖かい、感じかな」=「..I don't really understand, but.. it would feel warm..?」
 「……ごめん。そういうのは、あまり興味ないから」=「..Sorry, I'm not really interested in that kind of thing.」
 「……知らなかった……進んでるんだね」=「..I didn't know. They're making progress, huh.」
 「……無い。断るときとか、疲れるし」=「..No. I'd reject them. It's tiresome.」
@@ -37,6 +37,6 @@
 「……なんだか、大胆。でも、いつもより興奮して……すご\n　く気持ちよかった」=「..Somehow, you were really bold. But, I was more excited than usual.. It felt really good..」
 
 ; Player
-「恋愛してみたいとか、思ったことある？」=「Did you ever think about love?」
-「理想の結婚生活ってある？」=「What is your ideal married life?」
+「恋愛してみたいとか、思ったことある？」=「Do you ever think about love?」
+「理想の結婚生活ってある？」=「What is your ideal picture of married life?」
 「誰かに告白されたいとか、思ったことある？」=「Have you ever wanted to be confessed to?」
