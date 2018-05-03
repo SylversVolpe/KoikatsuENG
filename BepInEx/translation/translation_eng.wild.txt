@@ -24,12 +24,12 @@
 「おー、男でも甘いの好きなんだなー。あたしも大好きだ\n　ぞー」=「Oh~ even boys like sweets~ I love them~」
 「キミは辛いの食べられるか？」=「Can you eat spicy food?」
 「うーん、そっかー。好みって難しいなー」=「Hmm.. I see.. tastes are complicated, huh..」
-「キミは女子の身長の好みってあるかー？」=「Do you have any preference with a girl's height?」
+「キミは女子の身長の好みってあるかー？」=「Do you have any preference for a girl's height?」
 
 ; Go home together
 『壮亮くん、おはよー。よく寝てたから先に出るぞ』=『Sosuke-kun, good morning. I slept well and I'll be leaving first.』
-『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Wash your face properly and eat rice. See you at the school again!』
-『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会お\n　う！』=『Wash your face properly and eat rice. See you at the school again!』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会おう！』=『Wash your face properly and eat rice. See you again at the school!』
+『ちゃんと顔洗って、ご飯食べてこいよー。また学園で会お\n　う！』=『Wash your face properly and eat rice. See you again at the school!』
 『それと、寝顔にキスしておいた♪　裕子』=『Also, I kissed your sleeping face ♪ Yuko』
 
 ; Lunch
